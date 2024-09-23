@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+}
+div{
+    text-align: center;
+}
+h1{
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
+button{
+    font-size: larger;
+    padding: 5px 9px;
+    border-radius: 6px;
+}
+button:hover{
+    background-color: rgb(210, 205, 205);
+}
